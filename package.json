@@ -1,0 +1,24 @@
+{
+  "name": "bh-nodejs-datastore-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillHahn/bh-nodejs-datastore-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillHahn/bh-nodejs-datastore-sandbox/issues"
+  },
+  "homepage": "https://github.com/BillHahn/bh-nodejs-datastore-sandbox#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^1.0.2",
+    "yargs": "^8.0.1"
+  },
+  "devDependencies": {}
+}
